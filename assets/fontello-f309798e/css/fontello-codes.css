@@ -1,0 +1,6 @@
+
+.icon-camera:before { content: '\e800'; } /* '' */
+.icon-location:before { content: '\e809'; } /* '' */
+.icon-user:before { content: '\e80b'; } /* '' */
+.icon-angle-left:before { content: '\f104'; } /* '' */
+.icon-angle-right:before { content: '\f105'; } /* '' */

@@ -1,0 +1,148 @@
+* {
+  font-family: 'Exo 2', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #191919;
+  color: white;
+  padding: 0 20px;
+}
+
+.user-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-location,
+.icon-user {
+  font-size: 28px;
+}
+
+.user-pg {
+  color: #8b8c8d;
+}
+
+.hero-section {
+  background-image: url('./assets/hero-img.jpg');
+  background-repeat: no-repeat;
+  background-size: 100vw 600px;
+  height: 600px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 80px;
+}
+
+.intro-to-great-app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+.j {
+  color: #666666;
+}
+
+.camera-option {
+  color: #666666;
+  display: flex;
+  align-items: flex-start
+}
+
+.camera-option2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div {
+  height: 1800px;
+  background-color: #202122;
+}
+
+.goals {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.goal-title,
+.gallery-title {
+  color: #666666;
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.daily-goal {
+  color: white;
+  font-size: 40px;
+}
+
+.graph {
+  height: 380px;
+  width: 600px;
+}
+
+.gallery-title {
+  margin: 40px 0;
+}
+
+.photo-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+.photos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.icon-angle-right,
+.icon-angle-left {
+  font-size: 40px;
+  color: #666666;
+}
+
+.daily-image {
+  margin: 0 15px;
+}
+
+.date {
+  font-size: 19px;
+  color: #666666;
+  margin: 10px 0;
+}
+
+.workout-type {
+  font-size: 16px;
+  color: #aeafb0;
+  margin: 6px 0;
+}
+
+.calendar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
